@@ -1,0 +1,2 @@
+
+print("Yooo yoo bantaiii")
